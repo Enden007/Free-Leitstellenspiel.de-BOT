@@ -5,7 +5,7 @@ Um den Bot zu Benutzen, einfgach die Datei "start.bat" ausführen
 Benutzername und Passwort in die Config DAtei eintragen
 In der Config Datei können Ebenso Die Zeiten die der Bot zwischen bestimmten aktionen wartet eingestellt werden.(am besten so lassen wie sie dort stehen)
 Der Bot kann aktuel nur normale Einsätze abarbeiten. Geplante einsätze und Krankentransporte werden aktuell noch nicht bearbeitet.
-
+Wenn ein fehler auftrit, diesen bitte melden. Ich werde mich dann so schnell wie möglich darum kümmern.
 
 
 
